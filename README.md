@@ -4,8 +4,8 @@
 FoodCloud est une application dev mobile qui vise assiater les utilisateurs dans la gestion de leur nutrition en faisant 
 un bref bilan des repas consommes,calculer leur imc et faire des recommendation sur des sujets de nutrition
  ## FONCTIONNALITES CLES
-** Login page:
-        * Creation de compte utilisateur (register): email, nom et mot de passe
+**Login page:
+        *Creation de compte utilisateur (register): email, nom et mot de passe
         * Authentification ( signin & signup)
 ** Gestion de profil et calcul de l"IMC :
         * enregistrement de la taille
